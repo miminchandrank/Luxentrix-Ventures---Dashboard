@@ -55,7 +55,7 @@ This Power BI dashboard provides a comprehensive and interactive experience to u
 
 ## 📸 Dashboard Preview
 
-> *(Add images or screenshots from the dashboard in a `screenshots/` folder and embed them here)*
+> images are available in git
 
 ---
 
@@ -63,10 +63,3 @@ This Power BI dashboard provides a comprehensive and interactive experience to u
 
 Have suggestions, ideas, or feedback? Feel free to open an issue or connect on [LinkedIn](https://www.linkedin.com/in/miminchandrank).
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-⭐ _If you found this dashboard insightful, consider giving it a star!_
