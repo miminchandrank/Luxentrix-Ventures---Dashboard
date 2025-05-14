@@ -3,7 +3,8 @@
 Welcome to the repository for the **Luxentrix Ventures Interactive Power BI Dashboard**!  
 This project showcases a business intelligence solution designed to deliver actionable insights across multiple business areas like Sales, Customers, and Products.
 
-🔗 **Live Dashboard Preview**: [Click to Explore](https://lnkd.in/g8gEPZDA)
+🔗 **Live Dashboard Preview**: [Click to Explore](https://lnkd.in/g8gEPZDA)  
+🎥 **Live Demo Video**: [Watch on LinkedIn](https://www.linkedin.com/posts/miminchandrank_powerbi-dataanalytics-dashboarddesign-activity-7315019984676495360-y3U0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD4aN8BBSizqogKnOr2eBg_WSmXdqUej4w)
 
 ---
 
@@ -40,7 +41,6 @@ This Power BI dashboard provides a comprehensive and interactive experience to u
 - ✅ **Interactive Visuals** with drilldowns and filters
 - ✅ **Tooltips & Bookmarks** for enhanced user experience
 - ✅ **Responsive Design** for easy navigation
-- 
 
 ---
 
@@ -53,13 +53,20 @@ This Power BI dashboard provides a comprehensive and interactive experience to u
 
 ---
 
----
-
 ## 📸 Dashboard Preview
 
-*(Add images or screenshots from the dashboard in the `screenshots/` folder and embed them below)*
+> *(Add images or screenshots from the dashboard in a `screenshots/` folder and embed them here)*
 
+---
 
+## 🙌 Feedback & Contributions
 
+Have suggestions, ideas, or feedback? Feel free to open an issue or connect on [LinkedIn](https://www.linkedin.com/in/miminchandrank).
 
+---
 
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+⭐ _If you found this dashboard insightful, consider giving it a star!_
